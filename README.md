@@ -14,9 +14,6 @@
   <a href="https://discordapp.com" rel="Discord">
     <img src="https://img.shields.io/badge/-Cyrex%231012-7289DA?style=flat-square&labelColor=7289DA&logo=discord&logoColor=white&link=https://discordapp.com">
   </a>
-  <a href="https://cyrexag.com" rel="Website">
-    <img src="https://img.shields.io/badge/-Website-7289DA?style=flat-square&labelColor=7289DA&logo=anydesk&logoColor=white&link=https://discordapp.com">
-  </a>
 </p>
 
 

@@ -6,5 +6,5 @@
   <a> <img src="https://github-readme-stats.vercel.app/api?username=JGreyScales&theme=dark"/></a>
 </p>
 <p align="center">
- <a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGreyScales&langs_count=5&theme=tokyonight"/></a>
+ <a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGreyScales&langs_count=7&theme=tokyonight"/></a>
 </p>

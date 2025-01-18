@@ -8,8 +8,10 @@
 </p>
 <p align="center">
  <a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGreyScales&langs_count=7&theme=tokyonight"/></a>
+
 </p>
 
 
+  -----------------------
+[![My Skills](https://skillicons.dev/icons?i=js,html,cpp,rust,python,linux,windows)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js, html, cpp, rust, python, linux, windows)](https://skillicons.dev)

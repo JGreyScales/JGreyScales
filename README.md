@@ -12,6 +12,4 @@
 
 
 
-<div id="Skills" align="center">
- [![My Skills](https://skillicons.dev/icons?i=js, html, cpp, rust, python, linux, windows)](https://skillicons.dev)
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js, html, cpp, rust, python, linux, windows)](https://skillicons.dev)
